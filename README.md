@@ -1,2 +1,2 @@
 # Capstone-Projects
-I keep my Data Capstone Projects here
+I keep my Data Science Capstone Projects here
